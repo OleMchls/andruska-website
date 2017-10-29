@@ -1,0 +1,52 @@
+{
+  "assetsByChunkName": {
+    "component---src-pages-index-js": [
+      "component---src-pages-index-js-75bd28ecc08b63bc3202.js",
+      "component---src-pages-index-js-75bd28ecc08b63bc3202.js.map"
+    ],
+    "path---vita": [
+      "path---vita-1db04e5021b40904aca6.js",
+      "path---vita-1db04e5021b40904aca6.js.map"
+    ],
+    "path---": [
+      "path----557518bd178906f8d58a.js",
+      "path----557518bd178906f8d58a.js.map"
+    ],
+    "component---src-layouts-index-js": [
+      "component---src-layouts-index-js-772930dfe38273c49e39.js",
+      "component---src-layouts-index-js-772930dfe38273c49e39.js.map"
+    ],
+    "path---index": [
+      "path---index-1db04e5021b40904aca6.js",
+      "path---index-1db04e5021b40904aca6.js.map"
+    ],
+    "component---src-pages-404-js": [
+      "component---src-pages-404-js-4503918ea3a16cfcdb75.js",
+      "component---src-pages-404-js-4503918ea3a16cfcdb75.js.map"
+    ],
+    "commons": [
+      "commons-e5c1cd708c29e2b44420.js",
+      "build-js-styles.css",
+      "commons-e5c1cd708c29e2b44420.js.map",
+      "build-js-styles.css.map"
+    ],
+    "path---404-html": [
+      "path---404-html-1db04e5021b40904aca6.js",
+      "path---404-html-1db04e5021b40904aca6.js.map"
+    ],
+    "component---src-pages-vita-js": [
+      "component---src-pages-vita-js-bd0def5ed019422a4e92.js",
+      "component---src-pages-vita-js-bd0def5ed019422a4e92.js.map"
+    ],
+    "app": [
+      "app-477fb205e87352388d06.js",
+      "build-js-styles.css",
+      "app-477fb205e87352388d06.js.map",
+      "build-js-styles.css.map"
+    ],
+    "path---404": [
+      "path---404-1db04e5021b40904aca6.js",
+      "path---404-1db04e5021b40904aca6.js.map"
+    ]
+  }
+}
